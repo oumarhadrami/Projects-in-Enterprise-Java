@@ -2,5 +2,7 @@
 ![](save.gif)
 
 # Update the details of a customer
+![](update.gif)
 
 # Delete the details of a customer
+![](delete.gif)
